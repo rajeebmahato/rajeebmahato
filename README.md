@@ -23,7 +23,7 @@ My work focuses on designing, migrating and running enterprise data pipelines �
 
 - Currently working on: ETL migration and data integration for CareFirst BlueCross BlueShield, using Cloud Data Integration for PowerCenter (CDIPC), Informatica Intelligent Cloud Services (IICS), Snowflake and Azure Data Factory (ADF)
 
-- Previously delivered: the Financial Risk Data Mart for SunTrust (Truist Financial), a multi-year banking and financial risk programme
+- Previously delivered: the Financial Risk Data Mart for Truist (SunTrust), a multi-year banking and financial risk programme
 
 - Currently learning: PySpark and Apache Spark, building on my Python background
 
@@ -43,7 +43,7 @@ My work focuses on designing, migrating and running enterprise data pipelines �
 
 - Validate source-to-target data in Snowflake, Oracle SQL and MS SQL Server to keep migrated data accurate
 
-- Design, schedule, monitor and manage enterprise batch workloads with CA WA Workstation (Broadcom) and Control-M, working closely with onsite teams on requirements and production releases
+- Automate batch jobs using CA WA Workstation (Broadcom) and Control-M, working closely with onsite teams on requirements and production releases
 
 ---
 
@@ -82,7 +82,7 @@ ETL migration and data integration programme using CDIPC, IICS, Informatica Powe
 
 - Validating source-to-target data using MS SQL Server and Snowflake
 
-### Financial Risk Data Mart, SunTrust (Truist Financial) — Jul 2022 – Oct 2025
+### Financial Risk Data Mart, Truist (SunTrust) — Jul 2022 – Oct 2025
 
 Long-running data mart programme in banking and financial risk, built with Informatica PowerCenter and Oracle SQL.
 
