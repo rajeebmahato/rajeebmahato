@@ -43,7 +43,7 @@ My work focuses on designing, migrating and running enterprise data pipelines �
 
 - Validate source-to-target data in Snowflake, Oracle SQL and MS SQL Server to keep migrated data accurate
 
-- Schedule, monitor and coordinate batch workflows with Control-M and CA Workload Automation, working closely with onsite teams on requirements and production releases
+- Design, schedule, monitor and manage enterprise batch workloads with CA WA Workstation (Broadcom) and Control-M, working closely with onsite teams on requirements and production releases
 
 ---
 
@@ -54,7 +54,7 @@ My work focuses on designing, migrating and running enterprise data pipelines �
 | ETL and integration | Informatica PowerCenter, IICS / IDMC, CDIPC, Talend Open Studio |
 | Cloud and data platforms | Snowflake, Azure Data Factory, Hive |
 | Programming and query | Python, PySpark, Apache Spark, Oracle SQL, PL/SQL, Unix Shell |
-| Scheduling and tools | Control-M, CA Workload Automation, Power BI, Databricks |
+| Scheduling and tools | Control-M, CA WA Workstation (Expert), WinSCP, Power BI, Databricks |
 
 ---
 
@@ -82,7 +82,7 @@ ETL migration and data integration programme using CDIPC, IICS, Informatica Powe
 
 - Validating source-to-target data using MS SQL Server and Snowflake
 
-### Financial Risk Data Mart, SunTrust (Truist Financial) — Jul 2022 – 6 Nov 2025
+### Financial Risk Data Mart, SunTrust (Truist Financial) — Jul 2022 – Oct 2025
 
 Long-running data mart programme in banking and financial risk, built with Informatica PowerCenter and Oracle SQL.
 
