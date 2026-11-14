@@ -54,7 +54,7 @@ My work focuses on designing, migrating and running enterprise data pipelines â€
 | ETL and integration | Informatica PowerCenter, IICS / IDMC, CDIPC, Talend Open Studio |
 | Cloud and data platforms | Snowflake, Azure Data Factory, Hive |
 | Programming and query | Python, PySpark, Apache Spark, Oracle SQL, PL/SQL, Unix Shell |
-| Scheduling and tools | Control-M, CA WA Workstation (Expert), WinSCP, Power BI, Databricks |
+| Scheduling and tools | Control-M, CA WA Workstation, WinSCP, Power BI, Databricks |
 
 ---
 
