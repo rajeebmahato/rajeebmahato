@@ -17,7 +17,7 @@
 
 ## About me
 
-I am a Technology Analyst at Infosys in Mysuru, India, with 4+ years of experience in ETL development and data engineering. I joined Infosys in July 2022 as a System Engineer and have grown through Senior System Engineer to Technology Analyst, taking on Interim Tech Lead responsibilities along the way.
+I am a Technology Analyst at Infosys in Mysuru, India, with 4+ years of experience in ETL development and data engineering. I joined Infosys in July 2022 as a System Engineer and have grown through Senior System Engineer to Technology Analyst, taking on more responsibility along the way.
 
 My work focuses on designing, migrating and running enterprise data pipelines — moving data reliably between systems, validating it end to end, and keeping production workflows fast and dependable. I am currently open to new opportunities in data engineering and ETL development.
 
@@ -62,7 +62,7 @@ My work focuses on designing, migrating and running enterprise data pipelines �
 
 | Role | Organisation | Period |
 | --- | --- | --- |
-| Technology Analyst (Interim Tech Lead) | Infosys | Oct 2025 – Present |
+| Technology Analyst | Infosys | Oct 2025 – Present |
 | Senior System Engineer | Infosys | Oct 2024 – Nov 2025 |
 | System Engineer | Infosys | Jul 2022 – Nov 2024 |
 
